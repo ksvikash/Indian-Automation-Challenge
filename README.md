@@ -15,7 +15,9 @@ Component Required for Automated Security System
 
 
 Automated Security System Circuit Diagram
+
 ![image](https://github.com/user-attachments/assets/aa6cdaac-d273-466c-bdbd-cde50efbf266)
+
 As the circuit diagram shows, the Raspberry Pi is connected with the PIR Sensor, Buzzer Servo, and the Pi camera. Servo:- Signal is Connected to GPIO 17 and powered using an external power supply. Buzzer:- it is connected to GPIO 23 & GND. IR Sensor: - Out connected at GPIO 16 and powered using an external power supply. Pi Cam:- Direct connection to Raspberry Pi Board.
 
 
