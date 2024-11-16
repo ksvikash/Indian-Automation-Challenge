@@ -47,7 +47,7 @@ Refer to the website: https://circuitdigest.com/microcontroller-projects/automat
 
 Video:
 https://youtu.be/4QxZYN25Ieg
-<iframe width="562" height="316" src="https://www.youtube.com/embed/4QxZYN25Ieg" title="Automated Security System with Telegram Bot &amp; Facial Recognition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Contributors:
 Het Patel
