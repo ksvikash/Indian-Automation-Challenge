@@ -10,6 +10,7 @@ Component Required for Automated Security System
 4. IR sensor
 5. Pi Camera 5MP
 6. Buck Converter
+   
 ![image](https://github.com/user-attachments/assets/038ca377-1a44-4ad4-9a88-25e657c15974)
 
 
