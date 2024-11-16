@@ -53,8 +53,8 @@ https://youtu.be/4QxZYN25Ieg
 
 
 Contributors:
-Het Patel
-K S Vikash
-Siddharth Ramanathan
-Swaathy Kumar
-Surjyabho Deb
+1. Het Patel
+2. K S Vikash
+3. Siddharth Ramanathan
+4. Swaathy Kumar
+5. Surjyabho Deb
